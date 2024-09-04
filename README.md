@@ -14,7 +14,7 @@ The project aims to scrape product details from the Kritikos Supermarket website
 - Scrolls through dynamically loading pages to capture all products.
 - Exports scraped data to an Excel file.
 - Enhances the scraped data by adding key codes and descriptions.
-- 
+
 # Prerequisites
 Before running the scripts, ensure you have the following installed:
 
